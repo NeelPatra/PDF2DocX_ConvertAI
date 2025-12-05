@@ -30,9 +30,9 @@ pip install -r requirements.txt
 
 ### 👨🏻‍💻 Usage
 1. Open the notebook:
-   ```
-   jupyter notebook PDF2DocX_ConvertAI.ipynb
-   ```
+```
+jupyter notebook PDF2DocX_ConvertAI.ipynb
+```
 2. Run initialization cells.
 3. Open configuration form.
 4. Paste API key.
